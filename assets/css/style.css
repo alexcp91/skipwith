@@ -42,6 +42,7 @@ body, html {
 .body-container {
   max-width: 35em;
   text-align: center;
+  font-weight: 600;
 }
 
 .body-container a {
